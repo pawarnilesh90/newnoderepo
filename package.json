@@ -1,0 +1,22 @@
+{
+  "name": "newnodegit",
+  "version": "1.0.0",
+  "description": "\"# newnoderepo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawarnilesh90/newnoderepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawarnilesh90/newnoderepo/issues"
+  },
+  "homepage": "https://github.com/pawarnilesh90/newnoderepo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
